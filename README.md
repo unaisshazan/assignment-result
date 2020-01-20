@@ -11,3 +11,10 @@ Things to be noted from these assignments:
 
 Checkout the GitHub  account of the best performers and try to grasp how they solved the complicated problems with ease and skill resulting in the best predicted value and best fiited line. 
 Keep it up guys! And best of luck for your future! 👍🏻
+
+
+ <a href="https://github.com/emanah15/ML-assignmet-2"><i class="em em-point_right" aria-role="presentation" aria-label="WHITE RIGHT POINTING BACKHAND INDEX"></i>CLICK HERE TO SEE IMAAN AHMAD GITHUB ASSIGNMENT </a> 
+            </p>
+            
+ <a href="https://github.com/wardaharshad"><i class="em em-point_right" aria-role="presentation" aria-label="WHITE RIGHT POINTING BACKHAND INDEX"></i>CLICK HERE TO SEE WARDAH ARSHAD GITHUB ASSIGNMENT </a> 
+            </p>
